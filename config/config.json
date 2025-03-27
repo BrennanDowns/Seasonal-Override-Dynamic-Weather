@@ -1,13 +1,12 @@
 {
-	"PICK YOUR SEASON BELOW:": [
-		"summer = 0",
-		"autumn = 1",
-		"winter = 2",
-		"spring = 3",
-		"autumn_late = 4",
-		"spring_early = 5"
-	],
-	"chosenSeason": 0,
+	"seasonWeights": {
+		"SUMMER": 10,
+		"AUTUMN": 5,
+		"WINTER": 5,
+		"SPRING": 5,
+		"AUTUMN_LATE": 1,
+		"SPRING_EARLY": 1
+	},
 
 	"SET BELOW TO 0 TO DISABLE RAIN": 0,
 	"stormyWeatherPercentChance": 20
